@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xanzu Athando Alvinan Dika</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate front-end developer from Indonesia</h3>
 
 - 📫 How to reach me **xandoalka@gmail.com**
 
